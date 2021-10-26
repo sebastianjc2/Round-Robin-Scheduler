@@ -1,0 +1,9 @@
+// Sebastian Caballero sebastian.caballero@upr.edu
+
+Q: What can you observe from the printouts of the threads on the terminal?
+ When it prints out the threads for step 1 (-s 1), first I see the program starting,
+ since it prints out "Starting Program...". Next, it starts to create the threads from
+ Thread 1 to Thread 5 and prints it out. After it is done, it prints out "Main Finished ...
+ Bye Bye". After it prints out that the Main has finished running, it starts to run the
+ Threads, printing "Running Thread... This is thread n" 5 times, where n represents a
+ number from 0 to 4, although not in order.
